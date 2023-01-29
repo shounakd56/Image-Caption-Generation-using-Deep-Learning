@@ -1,6 +1,7 @@
 # Image Caption Generation using Deep Learning
 
 Week 1 :
+
 Started with learning basic python libraries such as Pandas & Numpy for data analysis
 Studied Exploratory Data Analysis by using various types of Graphs and Figures to depict data
 Learnt basic Machine Learning prediction techniques such as Decision Tree, Random Forest ,XGBoost Classifier
