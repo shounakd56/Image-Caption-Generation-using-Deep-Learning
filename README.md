@@ -5,8 +5,12 @@ The goal of this project is to utilize Deep Learning techniques to generate desc
 Week 1 :
 
 • Studied Exploratory Data Analysis by using various types of Graphs and Figures to depict data
+
 • Learnt  Machine Learning prediction techniques such as Decision Tree, Random Forest ,XGBoost Classifier
+
 • Implemented data pre-processing to deal with Missing values (Imputation) or Categorical variables (Ordinal / One Hot Encoding)
+
 • The assignment task was to predict individual product failures of new codes using various ML algorithms with evaluation based on AUC under the ROC curve obtained
+
 • Implemented algorithms like XGBoost, KNN Classifier, Decicion Tree, Logistics Regression and Random Forest for predictions along with some data-preprocessing 
   techniques
