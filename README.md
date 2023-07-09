@@ -1,5 +1,7 @@
 # Image Caption Generation using Deep Learning
 
+The goal of this project is to utilize Deep Learning techniques to generate descriptive captions for images. In order to achieve better results, the final model employs a combination of the VGG19 architecture, LSTM (Long Short-Term Memory), and NLP (Natural Language Processing) techniques. This fusion enables the model to leverage the powerful visual features extracted by VGG19 and generate coherent and contextually relevant captions using the LSTM and NLP components.
+
 Week 1 :
 
 Started with learning basic python libraries such as Pandas & Numpy for data analysis
